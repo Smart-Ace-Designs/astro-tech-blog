@@ -15,6 +15,7 @@ export default defineConfig({
         "astro/virtual-modules/transitions-types.js",
         "astro/virtual-modules/transitions-events.js",
         "astro/virtual-modules/transitions-swap-functions.js",
+        "flowbite",
       ],
     },
   },
